@@ -25,6 +25,7 @@ npm run test
 ## TODO
 
 * Internationalization
+* Keep track of uploaded file names
 
 ## Licence
 
