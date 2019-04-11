@@ -25,8 +25,8 @@ npm run test
 ## TODO
 
 * Internationalization
-* Keep track of uploaded file names
+* Keep track of uploaded file names?
 
 ## Licence
 
-MIT v 3.0
+GPL v3.0
